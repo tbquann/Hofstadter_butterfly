@@ -1,7 +1,9 @@
 
       program main
           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-          !!!!   Author Yundi Quan
+          !!!!   Hofstadter butterfly of three band model
+          !!!!   Author: Yundi Quan
+          !!!!   Written in 2015
           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
           implicit none
 
